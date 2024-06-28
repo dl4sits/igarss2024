@@ -19,7 +19,7 @@ While a growing remote sensing research community studies these inherently multi
 |  | Time-Series Tutorial                  |
 | ---            | :-:        |    
 | 09:00 - 09:15 | Introduction to time-series analysis                                         |
-| 09:15 - 10:00 | Time-series segmentation and break detection)                                      |
+| 09:15 - 10:00 | Time-series segmentation and break detection                                      |
 | 10:00 - 10:30 | break                                      | 
 | 10:30 - 11:15 | Deep learning techniques for satellite image time series                                                             |
 | 11:15 - 12:15 | Practical session: (i) break detection, and (ii) deep learning |
