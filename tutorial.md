@@ -14,16 +14,16 @@ During the last decades, the number and characteristics of imaging sensors onboa
 While a growing remote sensing research community studies these inherently multi-temporal aspects of our Planet, the underlying processing techniques need to be presented to a broader community. Concretely, we aim to reduce this gap in this half-day tutorial by presenting and reflecting on the breadth of methodologies and applications that require time-series data. After a brief introduction to time series, the first section will focus on time-series segmentation, whereas the second section will be devoted to deep learning techniques that exploit the temporal structure of the data. In practice, the theoretical concepts will be complemented with one hands-on practical session using Google Colab notebooks in R or Python/PyTorch. 
 
 
-**July 7 09:00 to 12:30 -- Room 003**
+**July 7 09:00 to 12:30 -- Room MC3.4**
 
 |  | Time-Series Tutorial                  |
 | ---            | :-:        |    
-| 09:00 - 09:15 | Introduction to time-series analysis                                         |
-| 09:15 - 10:00 | Time-series segmentation and break detection                                      |
-| 10:00 - 10:30 | break                                      | 
-| 10:30 - 11:15 | Deep learning techniques for satellite image time series                                                             |
-| 11:15 - 12:15 | Practical session: (i) break detection, and (ii) deep learning |
-| 12:15 - 12:30 | Closing remarks |
+| 09:00 - 09:15 | Part I. Introduction to time-series analysis                                         |
+| 09:15 - 09:45 | Part II. Time-series segmentation and break detection                                      |
+| 09:45 - 10:15 | Part III. Deep learning techniques for satellite image time series                                      | 
+| 10:15 - 10:45 | Break                                                             |
+| 10:45 - 11:55 | Practical session: (i) break detection, and (ii) deep learning |
+| 11:55 - 12:00 | Closing remarks |
 
 
 <!--## Directions-->
@@ -31,6 +31,10 @@ While a growing remote sensing research community studies these inherently multi
 ### Location
 [Megaron Athens International Conference Centre (MAICC)](https://maps.app.goo.gl/s5FEujS55CBfdGpb7)
 More details can be found [here](https://www.2024.ieeeigarss.org/venue.php).
+
+Room MC3.4 access at level -1:
+<img src="https://2024.ieeeigarss.org/images/IGARSS_New%20General%20floorplan.svg" width="600">
+
 
 <!--### Room 003-->
 
