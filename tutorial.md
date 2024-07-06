@@ -18,12 +18,12 @@ While a growing remote sensing research community studies these inherently multi
 
 |  | Time-Series Tutorial                  |
 | ---            | :-:        |    
-| 09:00 - 09:15 | Part I. Introduction to time-series analysis                                         |
-| 09:15 - 09:45 | Part II. Time-series segmentation and break detection                                      |
-| 09:45 - 10:15 | Part III. Deep learning techniques for satellite image time series                                      | 
+| 09:00 - 09:15 | [Part I.]({{site.baseurl}}/assets/pdf/opening.pdf) Introduction to time-series analysis                                         |
+| 09:15 - 09:45 | [Part II.]({{site.baseurl}}/assets/pdf/breakdetection.pdf) Time-series segmentation and break detection                                      |
+| 09:45 - 10:15 | [Part III.]({{site.baseurl}}/assets/pdf/deeplearning.pdf) Deep learning techniques for satellite image time series                                      | 
 | 10:15 - 10:45 | Break                                                             |
-| 10:45 - 11:55 | Practical session: (i) break detection, and (ii) deep learning |
-| 11:55 - 12:00 | Closing remarks |
+| 10:45 - 11:55 | Practical session: (i) [break detection](https://colab.research.google.com/drive/1r7TtQSxvu-fKWDzn30fFL1Kp7w6nDGH8?usp=sharing), and (ii) [deep learning](https://colab.research.google.com/drive/1wO0jGANmwn-eAOLygl9g5hmFTGpZ8cMV?usp=sharing) |
+| 11:55 - 12:00 | [Closing remarks]({{site.baseurl}}/assets/pdf/closing.pdf) |
 
 
 <!--## Directions-->
